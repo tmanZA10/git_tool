@@ -1,39 +1,39 @@
 <mxfile host="65bd71144e">
     <diagram id="nWH30_r-ms6PAIaMlYOr" name="Page-1">
-        <mxGraphModel dx="823" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#1A1A1A" math="0" shadow="0">
+        <mxGraphModel dx="816" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#1A1A1A" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="27" value="Internal Process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="27" value="Internal Process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="12" y="20" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="User prompt" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="28" value="User prompt" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="201" y="20" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="Output to user" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="30" value="Output to user" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="390" y="20" width="120" height="41" as="geometry"/>
                 </mxCell>
-                <mxCell id="MjqgWRw1ivJSiCKoIIC5-31" value="Process/prompt Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="MjqgWRw1ivJSiCKoIIC5-31" value="Process/prompt Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="579" y="16" width="120" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="9dHvSKLwHiDBOnPTO17J" name="git_tool commit &lt;commit message&gt;">
-        <mxGraphModel dx="832" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1834" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="MIM-9VmJArqAoa5QXxbN-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="MIM-9VmJArqAoa5QXxbN-1">
+                <mxCell id="MIM-9VmJArqAoa5QXxbN-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="MIM-9VmJArqAoa5QXxbN-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="bGzOFj6ByC5SpeP-TXd0-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="bGzOFj6ByC5SpeP-TXd0-2">
+                <mxCell id="bGzOFj6ByC5SpeP-TXd0-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="bGzOFj6ByC5SpeP-TXd0-2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-7" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="G9Goy8cFlfpVDEPpymwl-6">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-7" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="G9Goy8cFlfpVDEPpymwl-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-9" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="G9Goy8cFlfpVDEPpymwl-8">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-9" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sfK1TGOff2ylHTSyvKg--1" target="G9Goy8cFlfpVDEPpymwl-8" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="168" y="271"/>
@@ -42,16 +42,16 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="sfK1TGOff2ylHTSyvKg--1" value="Check files to commit" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="sfK1TGOff2ylHTSyvKg--1" value="&lt;b&gt;(START)&lt;/b&gt;&lt;br&gt;Check files to commit" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="258" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="qzBhaAkiCAFHcQmLcnS1-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MIM-9VmJArqAoa5QXxbN-1" target="qzBhaAkiCAFHcQmLcnS1-1">
+                <mxCell id="qzBhaAkiCAFHcQmLcnS1-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MIM-9VmJArqAoa5QXxbN-1" target="qzBhaAkiCAFHcQmLcnS1-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="MIM-9VmJArqAoa5QXxbN-1" value="No files to commit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="MIM-9VmJArqAoa5QXxbN-1" value="No files to commit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="219" y="258" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="qzBhaAkiCAFHcQmLcnS1-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qzBhaAkiCAFHcQmLcnS1-1" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="qzBhaAkiCAFHcQmLcnS1-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qzBhaAkiCAFHcQmLcnS1-1" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="714" y="556" as="targetPoint"/>
                         <Array as="points">
@@ -59,25 +59,25 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="qzBhaAkiCAFHcQmLcnS1-1" value="Tell user there is nothing to comiit" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="qzBhaAkiCAFHcQmLcnS1-1" value="Tell user there is nothing to comiit" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="419" y="258" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bGzOFj6ByC5SpeP-TXd0-1" target="G9Goy8cFlfpVDEPpymwl-1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bGzOFj6ByC5SpeP-TXd0-1" target="G9Goy8cFlfpVDEPpymwl-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bGzOFj6ByC5SpeP-TXd0-1" target="G9Goy8cFlfpVDEPpymwl-4">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bGzOFj6ByC5SpeP-TXd0-1" target="G9Goy8cFlfpVDEPpymwl-4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="bGzOFj6ByC5SpeP-TXd0-1" value="Prompt user to choose files to commit&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="bGzOFj6ByC5SpeP-TXd0-1" value="Prompt user to choose files to commit&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="219" y="363" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="bGzOFj6ByC5SpeP-TXd0-3" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bGzOFj6ByC5SpeP-TXd0-2" target="bGzOFj6ByC5SpeP-TXd0-1">
+                <mxCell id="bGzOFj6ByC5SpeP-TXd0-3" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bGzOFj6ByC5SpeP-TXd0-2" target="bGzOFj6ByC5SpeP-TXd0-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="bGzOFj6ByC5SpeP-TXd0-2" value="files to commit found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="bGzOFj6ByC5SpeP-TXd0-2" value="files to commit found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="373" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-3" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-1" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-3" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-1" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="694" y="576" as="targetPoint"/>
                         <Array as="points">
@@ -85,30 +85,30 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-1" value="Blank input or wrong file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-1" value="Blank input or wrong file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="419" y="373" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-19" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-4" target="G9Goy8cFlfpVDEPpymwl-18">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-19" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-4" target="G9Goy8cFlfpVDEPpymwl-18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-4" value="Chossen files" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-4" value="Chossen files" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="219" y="488" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-12" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-6">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-12" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-6" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="79" y="89" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-6" value="Not a git repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-6" value="Not a git repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="143" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-13" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-8" target="G9Goy8cFlfpVDEPpymwl-11">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-13" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-8" target="G9Goy8cFlfpVDEPpymwl-11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-8" value="Git not installed on machine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-8" value="Git not installed on machine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="219" y="143" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-17" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-10" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-17" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-10" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="792" y="58"/>
@@ -116,32 +116,32 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-10" value="Tell user that this is not a git repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-10" value="Tell user that this is not a git repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="28" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-16" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.675;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-11" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-16" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.675;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-11" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="736" y="176"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-11" value="Tell user git is not installed. git instruction to install git" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-11" value="Tell user git is not installed. git instruction to install git" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="419" y="143" width="210" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-15" value="Exit Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-15" value="Exit Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="704" y="589" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-18" target="G9Goy8cFlfpVDEPpymwl-20">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-18" target="G9Goy8cFlfpVDEPpymwl-20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-18" value="git add the choosen files" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-18" value="git add the choosen files" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="488" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-24" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-20" target="G9Goy8cFlfpVDEPpymwl-22">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-24" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-20" target="G9Goy8cFlfpVDEPpymwl-22" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-25" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-20" target="G9Goy8cFlfpVDEPpymwl-23">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-25" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-20" target="G9Goy8cFlfpVDEPpymwl-23" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="109" y="684"/>
@@ -150,61 +150,61 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-37" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-20" target="G9Goy8cFlfpVDEPpymwl-36">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-37" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-20" target="G9Goy8cFlfpVDEPpymwl-36" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-20" value="git commit with the commit message (signed)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-20" value="git commit with the commit message (signed)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="602" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-27" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-22" target="G9Goy8cFlfpVDEPpymwl-26">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-27" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-22" target="G9Goy8cFlfpVDEPpymwl-26" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-22" value="gpg not found on machince" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-22" value="gpg not found on machince&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="219" y="602" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-30" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-23" target="G9Goy8cFlfpVDEPpymwl-29">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-30" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-23" target="G9Goy8cFlfpVDEPpymwl-29" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-23" value="No gpg keys found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-23" value="No gpg keys found&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="219" y="716" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-28" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-26" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-28" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-26" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-26" value="Tell user gpg is not installed. give instruction to install gpg" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-26" value="Tell user gpg is not installed. give instruction to install gpg" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="394" y="602" width="210" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-32" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-29" target="G9Goy8cFlfpVDEPpymwl-31">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-32" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-29" target="G9Goy8cFlfpVDEPpymwl-31" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-35" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-29" target="G9Goy8cFlfpVDEPpymwl-34">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-35" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-29" target="G9Goy8cFlfpVDEPpymwl-34" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-29" value="Prompt user ask to commit without gpg signnature" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-29" value="Prompt user ask to commit without gpg signnature" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="419" y="706" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-33" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-31" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-33" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-31" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-31" value="&lt;b&gt;NO &lt;/b&gt;&lt;br&gt;(give instruction site for gpg setup)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-31" value="&lt;b&gt;NO &lt;/b&gt;&lt;br&gt;(give instruction site for gpg setup)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="576" y="716" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-40" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-34" target="G9Goy8cFlfpVDEPpymwl-38">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-40" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-34" target="G9Goy8cFlfpVDEPpymwl-38" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-34" value="YES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-34" value="YES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="419" y="830" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-39" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-36" target="G9Goy8cFlfpVDEPpymwl-38">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-39" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-36" target="G9Goy8cFlfpVDEPpymwl-38" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-36" value="commit successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-36" value="commit successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="716" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-46" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-38" target="G9Goy8cFlfpVDEPpymwl-42">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-46" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-38" target="G9Goy8cFlfpVDEPpymwl-42" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-48" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-38" target="G9Goy8cFlfpVDEPpymwl-43">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-48" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-38" target="G9Goy8cFlfpVDEPpymwl-43" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="111" y="910"/>
@@ -213,22 +213,22 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-38" value="git push to remote repo" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-38" value="git push to remote repo" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="830" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-49" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-42" target="G9Goy8cFlfpVDEPpymwl-44">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-49" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-42" target="G9Goy8cFlfpVDEPpymwl-44" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-42" value="Sucsseful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-42" value="Sucsseful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="944" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-50" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-43" target="G9Goy8cFlfpVDEPpymwl-45">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-50" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-43" target="G9Goy8cFlfpVDEPpymwl-45" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-43" value="No Internet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-43" value="No Internet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="219" y="944" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-51" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-44" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-51" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-44" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="695" y="956" as="targetPoint"/>
                         <Array as="points">
@@ -236,18 +236,603 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-44" value="Tell user files successfully pushed&lt;br&gt;to remote repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-44" value="Tell user files successfully pushed&lt;br&gt;to remote repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="19" y="1058" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-52" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G9Goy8cFlfpVDEPpymwl-45" target="G9Goy8cFlfpVDEPpymwl-15">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-52" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G9Goy8cFlfpVDEPpymwl-45" target="G9Goy8cFlfpVDEPpymwl-15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="737" y="974"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="G9Goy8cFlfpVDEPpymwl-45" value="Tell user push failed&lt;br&gt;(connect to internet)&lt;br&gt;(run git push manually)" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                <mxCell id="G9Goy8cFlfpVDEPpymwl-45" value="Tell user push failed&lt;br&gt;(connect to internet)&lt;br&gt;(run git push manually)" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
                     <mxGeometry x="419" y="930.5" width="120" height="87" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="git_tool commit &lt;commit message&gt; local" id="NdvytCz0SGyjxzjT3MOq">
+        <mxGraphModel dx="1284" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-0"/>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-1" parent="TpVAjZkZClyFQ1rAe1Oj-0"/>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-6" target="TpVAjZkZClyFQ1rAe1Oj-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-6" target="TpVAjZkZClyFQ1rAe1Oj-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-6" target="TpVAjZkZClyFQ1rAe1Oj-21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-5" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-6" target="TpVAjZkZClyFQ1rAe1Oj-23">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="168" y="271"/>
+                            <mxPoint x="165" y="234"/>
+                            <mxPoint x="279" y="234"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-6" value="&lt;b&gt;(START)&lt;/b&gt;&lt;br&gt;Check files to commit" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-7" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-8" target="TpVAjZkZClyFQ1rAe1Oj-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-8" value="No files to commit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="219" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-9" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-10" target="TpVAjZkZClyFQ1rAe1Oj-28">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="714" y="556" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="708" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-10" value="Tell user there is nothing to comiit" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="419" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-13" target="TpVAjZkZClyFQ1rAe1Oj-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-12" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-13" target="TpVAjZkZClyFQ1rAe1Oj-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-13" value="Prompt user to choose files to commit&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="219" y="363" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-14" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-15" target="TpVAjZkZClyFQ1rAe1Oj-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-15" value="files to commit found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="373" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-16" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-17" target="TpVAjZkZClyFQ1rAe1Oj-28">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="694" y="576" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="673" y="406"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-17" value="Blank input or wrong file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="419" y="373" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-18" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-19" target="TpVAjZkZClyFQ1rAe1Oj-30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-19" value="Chossen files" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="219" y="488" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-20" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-21">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="79" y="89" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-21" value="Not a git repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="143" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-22" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-23" target="TpVAjZkZClyFQ1rAe1Oj-27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-23" value="Git not installed on machine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="219" y="143" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-24" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-25" target="TpVAjZkZClyFQ1rAe1Oj-28">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="792" y="58"/>
+                            <mxPoint x="788" y="526"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-25" value="Tell user that this is not a git repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="28" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.675;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-27" target="TpVAjZkZClyFQ1rAe1Oj-28">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="736" y="176"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-27" value="Tell user git is not installed. git instruction to install git" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="419" y="143" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-28" value="Exit Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="704" y="589" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-29" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-30" target="TpVAjZkZClyFQ1rAe1Oj-34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-30" value="git add the choosen files" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="488" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-31" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-34" target="TpVAjZkZClyFQ1rAe1Oj-36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-32" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-34" target="TpVAjZkZClyFQ1rAe1Oj-38">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="109" y="684"/>
+                            <mxPoint x="184" y="684"/>
+                            <mxPoint x="182" y="744"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-33" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-34" target="TpVAjZkZClyFQ1rAe1Oj-49">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-34" value="git commit with the commit message (signed)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="602" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-35" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-36" target="TpVAjZkZClyFQ1rAe1Oj-40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-36" value="gpg not found on machince&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="219" y="602" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-37" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-38" target="TpVAjZkZClyFQ1rAe1Oj-43">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-38" value="No gpg keys found&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="219" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-39" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-40" target="TpVAjZkZClyFQ1rAe1Oj-28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-40" value="Tell user gpg is not installed. give instruction to install gpg" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="394" y="602" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-41" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-43" target="TpVAjZkZClyFQ1rAe1Oj-45">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-42" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-43" target="TpVAjZkZClyFQ1rAe1Oj-47">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-43" value="Prompt user ask to commit without gpg signnature" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="419" y="706" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-44" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-45" target="TpVAjZkZClyFQ1rAe1Oj-28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-45" value="&lt;b&gt;NO &lt;/b&gt;&lt;br&gt;(give instruction site for gpg setup)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="576" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="vV1Z0NJLP7Gq4TuOQSEP-1" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-47" target="vV1Z0NJLP7Gq4TuOQSEP-0">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-47" value="YES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="419" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="vV1Z0NJLP7Gq4TuOQSEP-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="TpVAjZkZClyFQ1rAe1Oj-49" target="vV1Z0NJLP7Gq4TuOQSEP-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TpVAjZkZClyFQ1rAe1Oj-49" value="commit successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="vV1Z0NJLP7Gq4TuOQSEP-4" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="vV1Z0NJLP7Gq4TuOQSEP-0" target="vV1Z0NJLP7Gq4TuOQSEP-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vV1Z0NJLP7Gq4TuOQSEP-0" value="git commit with the commit message (unsigned)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="219" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="vV1Z0NJLP7Gq4TuOQSEP-5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TpVAjZkZClyFQ1rAe1Oj-1" source="vV1Z0NJLP7Gq4TuOQSEP-2" target="TpVAjZkZClyFQ1rAe1Oj-28">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="79" y="938"/>
+                            <mxPoint x="744" y="942"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vV1Z0NJLP7Gq4TuOQSEP-2" value="Tell user commit was successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="TpVAjZkZClyFQ1rAe1Oj-1">
+                    <mxGeometry x="19" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="q3T9lqAyTChPHLBbjcG-" name="git_tool commit &lt;commit message&gt; all">
+        <mxGraphModel dx="1284" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-1" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-5" target="kE8xDgTQBve9tcYn5k5m-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-5" target="kE8xDgTQBve9tcYn5k5m-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-5" target="kE8xDgTQBve9tcYn5k5m-20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-4" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-5" target="kE8xDgTQBve9tcYn5k5m-22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="168" y="271"/>
+                            <mxPoint x="165" y="234"/>
+                            <mxPoint x="279" y="234"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-5" value="&lt;b&gt;(START)&lt;/b&gt;&lt;br&gt;Check files to commit" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-7" target="kE8xDgTQBve9tcYn5k5m-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-7" value="No files to commit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="219" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-8" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-9" target="kE8xDgTQBve9tcYn5k5m-27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="714" y="556" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="708" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-9" value="Tell user there is nothing to comiit" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="419" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-61" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-14" target="kE8xDgTQBve9tcYn5k5m-29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-14" value="files to commit found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="373" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-19" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="79" y="89" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-20" value="Not a git repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="143" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-21" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-22" target="kE8xDgTQBve9tcYn5k5m-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-22" value="Git not installed on machine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="219" y="143" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-23" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-24" target="kE8xDgTQBve9tcYn5k5m-27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="792" y="58"/>
+                            <mxPoint x="788" y="526"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-24" value="Tell user that this is not a git repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="28" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-25" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.675;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-26" target="kE8xDgTQBve9tcYn5k5m-27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="736" y="176"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-26" value="Tell user git is not installed. git instruction to install git" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="419" y="143" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-27" value="Exit Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="704" y="589" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-29" target="kE8xDgTQBve9tcYn5k5m-33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-29" value="git add all files" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="488" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-30" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-33" target="kE8xDgTQBve9tcYn5k5m-35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-31" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-33" target="kE8xDgTQBve9tcYn5k5m-37" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="109" y="684"/>
+                            <mxPoint x="184" y="684"/>
+                            <mxPoint x="182" y="744"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-32" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-33" target="kE8xDgTQBve9tcYn5k5m-48" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-33" value="git commit with the commit message" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="602" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-34" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-35" target="kE8xDgTQBve9tcYn5k5m-39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-35" value="gpg not found on machince&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="219" y="602" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-36" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-37" target="kE8xDgTQBve9tcYn5k5m-42" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-37" value="No gpg keys found&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="219" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-38" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-39" target="kE8xDgTQBve9tcYn5k5m-27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-39" value="Tell user gpg is not installed. give instruction to install gpg" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="394" y="602" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-40" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-42" target="kE8xDgTQBve9tcYn5k5m-44" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-41" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-42" target="kE8xDgTQBve9tcYn5k5m-46" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-42" value="Prompt user ask to commit without gpg signnature" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="419" y="706" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-43" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-44" target="kE8xDgTQBve9tcYn5k5m-27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-44" value="&lt;b&gt;NO &lt;/b&gt;&lt;br&gt;(give instruction site for gpg setup)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="576" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-45" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-46" target="kE8xDgTQBve9tcYn5k5m-51" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-46" value="YES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="419" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-47" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-48" target="kE8xDgTQBve9tcYn5k5m-51" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-48" value="commit successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-49" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-51" target="kE8xDgTQBve9tcYn5k5m-53" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-50" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-51" target="kE8xDgTQBve9tcYn5k5m-55" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="111" y="910"/>
+                            <mxPoint x="194" y="910"/>
+                            <mxPoint x="194" y="974"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-51" value="git push to remote repo" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-52" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-53" target="kE8xDgTQBve9tcYn5k5m-57" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-53" value="Sucsseful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="944" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-54" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-55" target="kE8xDgTQBve9tcYn5k5m-59" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-55" value="No Internet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="219" y="944" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-56" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-57" target="kE8xDgTQBve9tcYn5k5m-27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="695" y="956" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="779" y="1093"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-57" value="Tell user files successfully pushed&lt;br&gt;to remote repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="1058" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-58" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kE8xDgTQBve9tcYn5k5m-59" target="kE8xDgTQBve9tcYn5k5m-27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="737" y="974"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kE8xDgTQBve9tcYn5k5m-59" value="Tell user push failed&lt;br&gt;(connect to internet)&lt;br&gt;(run git push manually)" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="419" y="930.5" width="120" height="87" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="git_tool commit &lt;commit message&gt; local all" id="-Qyj0KTHVLvBj1O4WM7n">
+        <mxGraphModel dx="1284" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--0"/>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--1" parent="NMB3mqLLrsbT7VlH-SZ--0"/>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--6" target="NMB3mqLLrsbT7VlH-SZ--8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--6" target="NMB3mqLLrsbT7VlH-SZ--12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--4" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--6" target="NMB3mqLLrsbT7VlH-SZ--14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--5" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--6" target="NMB3mqLLrsbT7VlH-SZ--16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="168" y="271"/>
+                            <mxPoint x="165" y="234"/>
+                            <mxPoint x="279" y="234"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--6" value="&lt;b&gt;(START)&lt;/b&gt;&lt;br&gt;Check files to commit" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--7" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--8" target="NMB3mqLLrsbT7VlH-SZ--10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--8" value="No files to commit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="219" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--9" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--10" target="NMB3mqLLrsbT7VlH-SZ--21">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="714" y="556" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="708" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--10" value="Tell user there is nothing to comiit" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="419" y="258" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--12" target="NMB3mqLLrsbT7VlH-SZ--23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--12" value="files to commit found" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="373" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--13" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--14">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="79" y="89" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--14" value="Not a git repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="143" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--15" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--16" target="NMB3mqLLrsbT7VlH-SZ--20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--16" value="Git not installed on machine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="219" y="143" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--17" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--18" target="NMB3mqLLrsbT7VlH-SZ--21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="792" y="58"/>
+                            <mxPoint x="788" y="526"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--18" value="Tell user that this is not a git repo" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="28" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--19" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.675;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--20" target="NMB3mqLLrsbT7VlH-SZ--21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="736" y="176"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--20" value="Tell user git is not installed. give instruction to install git" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="419" y="143" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--21" value="Exit Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="704" y="589" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--22" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--23" target="NMB3mqLLrsbT7VlH-SZ--27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--23" value="git add all files" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="488" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--24" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--27" target="NMB3mqLLrsbT7VlH-SZ--29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--25" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--27" target="NMB3mqLLrsbT7VlH-SZ--31">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="109" y="684"/>
+                            <mxPoint x="184" y="684"/>
+                            <mxPoint x="182" y="744"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--26" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--27" target="NMB3mqLLrsbT7VlH-SZ--42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--27" value="git commit with the commit message&lt;br&gt;(signed)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="602" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--28" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--29" target="NMB3mqLLrsbT7VlH-SZ--33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--29" value="gpg not found on machince&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="219" y="602" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--30" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--31" target="NMB3mqLLrsbT7VlH-SZ--36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--31" value="No gpg keys found&lt;br&gt;(auto signing is on)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="219" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--32" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--33" target="NMB3mqLLrsbT7VlH-SZ--21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--33" value="Tell user gpg is not installed. give instruction to install gpg" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="394" y="602" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--34" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--36" target="NMB3mqLLrsbT7VlH-SZ--38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--35" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--36" target="NMB3mqLLrsbT7VlH-SZ--40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--36" value="Prompt user ask to commit without gpg signnature" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="419" y="706" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--37" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--38" target="NMB3mqLLrsbT7VlH-SZ--21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--38" value="&lt;b&gt;NO &lt;/b&gt;&lt;br&gt;(give instruction site for gpg setup)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="576" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8a3OXnVyFTq66G-KyExX-5" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--40" target="8a3OXnVyFTq66G-KyExX-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--40" value="YES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="419" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8a3OXnVyFTq66G-KyExX-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="NMB3mqLLrsbT7VlH-SZ--42" target="8a3OXnVyFTq66G-KyExX-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="NMB3mqLLrsbT7VlH-SZ--42" value="commit successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="716" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8a3OXnVyFTq66G-KyExX-0" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="8a3OXnVyFTq66G-KyExX-1" target="8a3OXnVyFTq66G-KyExX-2" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8a3OXnVyFTq66G-KyExX-1" value="git commit with the commit message (unsigned)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="219" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8a3OXnVyFTq66G-KyExX-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NMB3mqLLrsbT7VlH-SZ--1" source="8a3OXnVyFTq66G-KyExX-2" target="NMB3mqLLrsbT7VlH-SZ--21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="76" y="951"/>
+                            <mxPoint x="744" y="953"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8a3OXnVyFTq66G-KyExX-2" value="Tell user commit was successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
+                    <mxGeometry x="19" y="830" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

@@ -2,8 +2,9 @@ git_tool commit <commit message>
 git_tool commit <commit message> all
 git_tool commit <commit message> local
 git_tool commit <commit message> local all
-git_tool update
+git_tool update_keys
 git_tool current_gpg
 git_tool change_gpg
 git_tool config_user
 git_tool help
+git_tool gpg_signing=<true/false>
