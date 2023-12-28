@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="nWH30_r-ms6PAIaMlYOr" name="Page-1">
-        <mxGraphModel dx="816" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#1A1A1A" math="0" shadow="0">
+        <mxGraphModel dx="832" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#1A1A1A" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -20,7 +20,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="9dHvSKLwHiDBOnPTO17J" name="git_tool commit &lt;commit message&gt;">
-        <mxGraphModel dx="1834" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="574" dy="318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -253,7 +253,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="git_tool commit &lt;commit message&gt; local" id="NdvytCz0SGyjxzjT3MOq">
-        <mxGraphModel dx="1284" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="832" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="TpVAjZkZClyFQ1rAe1Oj-0"/>
                 <mxCell id="TpVAjZkZClyFQ1rAe1Oj-1" parent="TpVAjZkZClyFQ1rAe1Oj-0"/>
@@ -455,7 +455,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="q3T9lqAyTChPHLBbjcG-" name="git_tool commit &lt;commit message&gt; all">
-        <mxGraphModel dx="1284" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="832" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -662,7 +662,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="git_tool commit &lt;commit message&gt; local all" id="-Qyj0KTHVLvBj1O4WM7n">
-        <mxGraphModel dx="1284" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="832" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="NMB3mqLLrsbT7VlH-SZ--0"/>
                 <mxCell id="NMB3mqLLrsbT7VlH-SZ--1" parent="NMB3mqLLrsbT7VlH-SZ--0"/>
@@ -833,6 +833,79 @@
                 </mxCell>
                 <mxCell id="8a3OXnVyFTq66G-KyExX-2" value="Tell user commit was successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="NMB3mqLLrsbT7VlH-SZ--1">
                     <mxGeometry x="19" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="BDmfl4cXC6GXLyBmQJhw" name="git_tool update_keys">
+        <mxGraphModel dx="1072" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="dlTndCToEj-Woh5Hht8d-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kxU5xE2RIMPuVTE6Qk3A-1" target="dlTndCToEj-Woh5Hht8d-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dlTndCToEj-Woh5Hht8d-7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxU5xE2RIMPuVTE6Qk3A-1" target="dlTndCToEj-Woh5Hht8d-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dlTndCToEj-Woh5Hht8d-8" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kxU5xE2RIMPuVTE6Qk3A-1" target="dlTndCToEj-Woh5Hht8d-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kxU5xE2RIMPuVTE6Qk3A-1" value="&lt;b&gt;(START&lt;/b&gt;)&lt;br&gt;Get gpg keys on machine" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="27" y="585" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlTndCToEj-Woh5Hht8d-3" target="CovFtNaIw1ihIMYdHA40-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dlTndCToEj-Woh5Hht8d-3" value="gpg not installed on machine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="27" y="445" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dlTndCToEj-Woh5Hht8d-5" target="CovFtNaIw1ihIMYdHA40-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dlTndCToEj-Woh5Hht8d-5" value="no gpg key found" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="208" y="585" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-9" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlTndCToEj-Woh5Hht8d-6" target="CovFtNaIw1ihIMYdHA40-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dlTndCToEj-Woh5Hht8d-6" value="gpg keys found" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="27" y="725" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-15" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CovFtNaIw1ihIMYdHA40-1" target="CovFtNaIw1ihIMYdHA40-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="702" y="475"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-1" value="Tell user gpg is not installed. give instruction to install gpg" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="445" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-3" value="Exit Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="665" y="575" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-14" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CovFtNaIw1ihIMYdHA40-5" target="CovFtNaIw1ihIMYdHA40-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-5" value="Tell user no keys were found&lt;br&gt;(give instruction to create key)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="389" y="575" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-12" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CovFtNaIw1ihIMYdHA40-8" target="CovFtNaIw1ihIMYdHA40-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-8" value="Add keys to jsons keys config files" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+                    <mxGeometry x="208" y="725" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-13" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CovFtNaIw1ihIMYdHA40-11" target="CovFtNaIw1ihIMYdHA40-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="705" y="755"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CovFtNaIw1ihIMYdHA40-11" value="Tell user keys were successfully updated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="389" y="715" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
